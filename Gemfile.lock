@@ -54,6 +54,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.19)
     multi_json (1.5.0)
+    pg (0.14.1)
     polyglot (0.3.3)
     ps (0.0.8)
       ansi
@@ -109,6 +110,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
+  pg
   ps
   rails (= 3.2.11)
   sass-rails (~> 3.2.3)
